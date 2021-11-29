@@ -2,7 +2,7 @@
 Example of how to use VS Code to build Code Composer Studio C/C++ projects
 
 Description: Visual Studio Code is a more pleasant development environment to work with than Code Composer Studio.
-This example shows how VS Code can be used for editing and building CCS C/C++ projects. It does not show how to
+This example shows how VS Code can be used for building CCS C/C++ projects. It does not show how to
 debug from VS Code.
 
 Instructions: 
