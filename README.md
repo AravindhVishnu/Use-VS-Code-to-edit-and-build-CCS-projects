@@ -16,3 +16,5 @@ Example project info:
 The HelloWorldRtos example project is setup as a TI RTOS project. It is configured to be built for the 
 Industrial Communication Engine (ICE) V2 development board with the Sitara AM3359 processor.
 Version 8.2 of Code Composer Studio is used.
+
+Note: Tested on Windows 10
