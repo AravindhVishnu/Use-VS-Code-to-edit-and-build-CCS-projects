@@ -11,7 +11,7 @@
 static void taskFunction();
 
 /*
- *  ======== taskFunction ========
+ *  ======== taskFunction =======
  */
 void taskFunction()
 {
@@ -24,7 +24,7 @@ void taskFunction()
 }
 
 /*
- *  ======== main ========
+ *  ======== main =======
  */
 int main()
 { 
